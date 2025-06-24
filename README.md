@@ -35,7 +35,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 
 > DevOps, homelabs, and lessons learned the hard way.
 
-- [Why I started This Blog]([https://substack.com/home/post/p-166717295?source=queue])
+- [Why I started This Blog](https://substack.com/home/post/p-166717295?source=queue)
 
 
 
@@ -43,8 +43,8 @@ More coming soon — all articles live in the GitHub Pages site and my substack.
 
 ## Contact
 
-- [LinkedIn]([https://linkedin.com/in/flochai])
-- [Substack]([https://substack.com/@flochai])
+- [LinkedIn](https://linkedin.com/in/flochai)
+- [Substack](https://substack.com/@flochai)
 
 ---
 
