@@ -4,7 +4,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 
 ## About
 
-- Career-changer from IT support and education, now diving deep into DevOps  
+- Career-changer from education, now diving deep into DevOps  
 - Preparing for the CKAD, already KCNA and PCEP certified  
 - Focused on learning by doing: building a homelab, diving into AWS for the summer and snake charming  
 - Documenting the process to share what works — and what breaks  
@@ -20,28 +20,31 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 ## Projects
 
 - Multi-node Kubernetes homelab  
-- FastAPI apps deployed via GitOps  
+- Deployements via GitOps  
 - Anki decks for DevOps certifications  
-- Custom GitHub Pages blog (static, fast, and minimalist)  
+- AWS Architecture 
 
 ## Certifications
 
 - **KCNA** – Kubernetes and Cloud Native Associate (86%)  
 - **PCEP** – Certified Entry-Level Python Programmer  
-- **CKAD** – in progress  
+- **CKAD** – in progress
+- **AWS Solutions Architect** – in progress
 
 ## Blog
 
 > DevOps, homelabs, and lessons learned the hard way.
 
-- [Running K3s on a Raspberry Pi Homelab](#)  
+- [Why I started This Blog]([https://substack.com/home/post/p-166717295?source=queue])
 
 
-More coming soon — all articles live in the GitHub Pages site.
+
+More coming soon — all articles live in the GitHub Pages site and my substack.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/flochai]
+- [LinkedIn]([https://linkedin.com/in/flochai])
+- [Substack]([https://substack.com/@flochai])
 
 ---
 
