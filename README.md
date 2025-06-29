@@ -35,6 +35,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 
 > DevOps, homelabs, and lessons learned the hard way.
 
+- [Leveling Up: LFCS, CKAD, and Tab Completion Zen](https://substack.com/home/post/p-167101886)
 - [Why I started This Blog](https://substack.com/home/post/p-166717295?source=queue)
 
 
