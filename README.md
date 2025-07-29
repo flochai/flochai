@@ -28,7 +28,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 
 - **KCNA** – Kubernetes and Cloud Native Associate (86%)  
 - **PCEP** – Certified Entry-Level Python Programmer  
-- **CKAD** - Certified Kubernetes Application Developer (86%)
+- **CKAD** - Certified Kubernetes Application Developer (87%)
 - **AWS Solutions Architect** – in progress
 - **CKA** - in progress
 - **LFCS** - in progress
