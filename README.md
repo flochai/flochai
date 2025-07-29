@@ -5,7 +5,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 ## About
 
 - Career-changer from education, now diving deep into DevOps  
-- Preparing for the CKAD, already KCNA and PCEP certified  
+- Preparing for the CKA, SAA and LFCS, already KCNA, CKAD and PCEP certified  
 - Focused on learning by doing: building a homelab, diving into AWS for the summer and snake charming  
 - Documenting the process to share what works — and what breaks  
 
@@ -28,14 +28,16 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 
 - **KCNA** – Kubernetes and Cloud Native Associate (86%)  
 - **PCEP** – Certified Entry-Level Python Programmer  
-- **CKAD**
+- **CKAD** - Certified Kubernetes Application Developer (86%)
 - **AWS Solutions Architect** – in progress
 - **CKA** - in progress
+- **LFCS** - in progress
 
 ## Blog
 
 > DevOps, homelabs, and lessons learned the hard way.
 
+- [AWS Ate My Free Time (But I’m Not Mad About It...)](https://substack.com/home/post/p-169387424)
 - [Leveling Up: LFCS, CKAD, and Tab Completion Zen](https://substack.com/home/post/p-167101886)
 - [Why I started This Blog](https://substack.com/home/post/p-166717295?source=queue)
 
