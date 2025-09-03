@@ -5,7 +5,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 ## About
 
 - Career-changer from education, now diving deep into DevOps  
-- Preparing for the CKA, SAA and LFCS, already KCNA, CKAD and PCEP certified  
+- Preparing for the CKA and LFCS, already KCNA, AWS SAA, CKAD and PCEP certified  
 - Focused on learning by doing: building a homelab, diving into AWS for the summer and snake charming  
 - Documenting the process to share what works — and what breaks  
 
@@ -29,7 +29,7 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 - **KCNA** – Kubernetes and Cloud Native Associate (86%)  
 - **PCEP** – Certified Entry-Level Python Programmer  
 - **CKAD** - Certified Kubernetes Application Developer (87%)
-- **AWS Solutions Architect** – in progress
+- **AWS Solutions Architect** 
 - **CKA** - in progress
 - **LFCS** - in progress
 
