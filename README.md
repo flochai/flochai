@@ -22,7 +22,8 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 - Multi-node Kubernetes homelab  
 - Deployements via GitOps  
 - Anki decks for DevOps certifications  
-- AWS Architecture 
+- AWS Architecture
+- Terraform Deployments
 
 ## Certifications
 
