@@ -24,13 +24,15 @@ DevOps student, infrastructure tinkerer, and curious builder of things that (eve
 - Anki decks for DevOps certifications  
 - AWS Architecture
 - Terraform Deployments
+- GKE test pipeline
 
 ## Certifications
 
 - **KCNA** – Kubernetes and Cloud Native Associate (86%)  
 - **PCEP** – Certified Entry-Level Python Programmer  
 - **CKAD** - Certified Kubernetes Application Developer (87%)
-- **AWS Solutions Architect** 
+- **AWS Solutions Architect**
+- Terraform Associate
 - **CKA** - in progress
 - **LFCS** - in progress
 
